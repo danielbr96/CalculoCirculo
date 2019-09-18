@@ -6,7 +6,11 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+<<<<<<< HEAD
       "CalculoCirculo/1.0.0": {
+=======
+      "calculocirculo/1.0.0": {
+>>>>>>> Mario
         "runtime": {
           "CalculoCirculo.dll": {}
         }
@@ -14,7 +18,11 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "CalculoCirculo/1.0.0": {
+=======
+    "calculocirculo/1.0.0": {
+>>>>>>> Mario
       "type": "project",
       "serviceable": false,
       "sha512": ""

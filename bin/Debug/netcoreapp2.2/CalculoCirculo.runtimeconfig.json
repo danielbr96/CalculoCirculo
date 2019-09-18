@@ -1,6 +1,9 @@
 {
   "runtimeOptions": {
+<<<<<<< HEAD
     "tfm": "netcoreapp2.2",
+=======
+>>>>>>> Mario
     "framework": {
       "name": "Microsoft.NETCore.App",
       "version": "2.2.0"

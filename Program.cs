@@ -26,6 +26,13 @@ namespace CalculoCirculo
         //radio de un circulo
         double radio = Math.Sqrt(area/Math.PI);
         Console.Write(radio);
+           
+            //radio de un circulo
+            int r = 5;
+            //area de un circulo
+             double area = (Math.PI * Math.Pow(r, 2)); 
+             Console.WriteLine(area);
+
         }
     }
 }
