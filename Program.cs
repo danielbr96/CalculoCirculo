@@ -6,7 +6,13 @@ namespace CalculoCirculo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+            //radio de un circulo
+            int r = 5;
+            //area de un circulo
+             double area = (Math.PI * Math.Pow(r, 2)); 
+             Console.WriteLine(area);
+
         }
     }
 }

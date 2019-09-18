@@ -1,0 +1,8 @@
+C:\Users\Mario\Desktop\Area\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.deps.json
+C:\Users\Mario\Desktop\Area\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.runtimeconfig.json
+C:\Users\Mario\Desktop\Area\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\Area\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Area\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.dll
+C:\Users\Mario\Desktop\Area\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.pdb
+C:\Users\Mario\Desktop\Area\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.dll
+C:\Users\Mario\Desktop\Area\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.pdb
