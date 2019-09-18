@@ -6,7 +6,11 @@ namespace CalculoCirculo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //radii circulo
+             int r=10;
+            //diametro de un circulo
+            double diametro= (r × r)
+            Console.WriteLine(diametro);
         }
     }
 }
