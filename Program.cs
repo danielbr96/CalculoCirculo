@@ -6,7 +6,16 @@ namespace CalculoCirculo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           double radio, diametro, perimetro;
+		   
+		   radio=45;
+		   
+		   diametro=radio*2;
+		   
+		   perimetro= 3.1416*diametro;
+		   
+			Console.WriteLine("El perimetro es: "+ perimetro);
+			
         }
     }
 }

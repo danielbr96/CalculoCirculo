@@ -1,0 +1,11 @@
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.csprojAssemblyReference.cache
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.AssemblyInfoInputs.cache
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.AssemblyInfo.cs
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.deps.json
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.runtimeconfig.json
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.runtimeconfig.dev.json
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.dll
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\bin\Debug\netcoreapp2.2\CalculoCirculo.pdb
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.dll
+C:\Users\Daniel Briceño\Desktop\OperacionesCirculo\CalculoCirculo\obj\Debug\netcoreapp2.2\CalculoCirculo.pdb
